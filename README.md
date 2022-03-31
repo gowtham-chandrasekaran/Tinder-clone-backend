@@ -1,7 +1,7 @@
 # Tinder-clone-backend
 Backend that connects with mongoDB to load the images in Tinder clone app.
 
-You can find the front end here: https://github.com/gowthambalboa/Tinder-clone-frontend
+You can find the front end repo here: https://github.com/gowthambalboa/Tinder-clone-frontend
 
 # Description
 
